@@ -1,0 +1,23 @@
+---
+# This collection is initialized by https://github.com/ansible/ansible-creator 24.12.0
+
+# See https://docs.ansible.com/ansible/latest/dev_guide/collections_galaxy_meta.html
+
+namespace: "scaleuptechnologies"
+name: "outline_api"
+version: 0.0.1
+readme: README.md
+authors:
+  - Moritz Jannasch <mjannasch@scaleuptech.com>
+
+description: Ansible collection for interacting with the Outline knowledge base API
+license_file: LICENSE
+tags: ["tools", "outline"]
+dependencies: {}
+
+repository: https://github.com/scaleup-technologies/ansible-outline-api
+issues: https://github.com/scaleup-technologies/ansible-outline-api/issues
+
+build_ignore:
+  - .gitignore
+  - changelogs/.plugin-cache.yaml

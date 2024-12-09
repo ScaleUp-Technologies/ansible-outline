@@ -1,0 +1,9 @@
+---
+edit_on_github:
+  repository: scaleup-technologies/ansible-outline-api
+  branch: main
+  path_prefix: ""
+
+extra_links:
+  - description: Report an issue
+    url: https://github.com/scaleup-technologies/ansible-outline-api/issues/new/choose
