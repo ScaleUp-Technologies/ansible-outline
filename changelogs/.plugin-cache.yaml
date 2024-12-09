@@ -1,0 +1,24 @@
+objects:
+  role: {}
+plugins:
+  become: {}
+  cache: {}
+  callback: {}
+  cliconf: {}
+  connection: {}
+  filter: {}
+  httpapi: {}
+  inventory: {}
+  lookup: {}
+  module:
+    document_create:
+      description: Create a document in Outline
+      name: document_create
+      namespace: ""
+      version_added: 0.0.1
+  netconf: {}
+  shell: {}
+  strategy: {}
+  test: {}
+  vars: {}
+version: 0.0.1
